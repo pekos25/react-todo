@@ -1,0 +1,11 @@
+.message {
+  height: 100px;
+  width: 500px;
+  background-color: red;
+  color: white;
+  position: absolute;
+  bottom: 20px;
+  left: 40vw;
+  z-index: 10;
+  transform: translateY(300px) 2s;
+}
